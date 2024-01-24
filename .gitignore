@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/GitHub
+/AZ400PracticeWebAPI/bin/Debug/net6.0
+/AZ400PracticeWebAPI/.vs/AZ400PracticeWebAPI/v17
+/AZ400PracticeWebAPI/.vs/AZ400PracticeWebAPI
+/AZ400PracticeWebAPI/obj
